@@ -1,0 +1,132 @@
+#a154{
+   background-color: black;
+   font-size: 28px ;
+   color: white;
+   width: 50 px;
+   height: 350px;
+}
+.bloc{
+  position: relative;
+  margin-left:10px;
+  
+
+}
+
+.bg-light{
+  height: 70px;
+}
+.btn{
+  position: absolute;
+  top:40%;
+  left:40%;
+}
+.block1{
+  margin-top: 50%
+}
+.tt{
+  margin-top: 10px;
+}
+body{
+  background-image:  
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.grd
+{
+margin:20px;
+}
+a{
+    margin-left: 12px;
+    margin-right: 12px;
+    font-size: 30px ;
+    color: antiquewhite;
+}
+a:hover{
+    color: black;
+}
+/* #image{
+    display: inline;
+    background-size: cover;
+    overflow: hidden;
+}
+#image:hover{
+ color: black;
+} */
+.blockc{
+    font-size: 60px;
+    color: white;
+}
+.bloc{width: 30%}
+.image1{
+  width: 100%;
+  
+ display: block;
+ margin-bottom: 30px;
+
+}
+.block12{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+.position{
+  position: relative;
+}
+.bl{
+  
+  display: flex;
+  justify-content: center;
+
+
+}
+.text{
+  display: none;
+}
+a:link{
+    text-decoration: none;
+ }
+ .image1:hover{
+  opacity: 0.4;
+}
+  .feedback{
+   
+   font-size: 55px;
+    color: aliceblue;
+  } */
+  #block1{
+    color: blue;
+  }
+  span{
+    background-color: aliceblue;
+    border-radius: 1px;
+    border:1px black solid;
+   float:right;
+   display: block;
+   margin-top: -50px;
+   
+
+    padding: 5px;
+    color:black;
+  }
+  .text{
+    
+    color: beige;
+    /* position: relative; */
+    
+    
+  }
+  .x{
+    position: absolute;
+    left: 93%;
+    top:35%;
+    z-index:6;
+
+  }
+  .bb4{
+    display: flex;
+    flex-wrap: wrap; 
+  }

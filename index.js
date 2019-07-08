@@ -1,0 +1,1 @@
+$('#blockb').css("font-size","10px");
